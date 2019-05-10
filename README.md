@@ -10,6 +10,6 @@ This project focuses on finding the insights from the real world ecommerce data.
 
 4).What was the % of free vs. paid shipping (when customer paid for shipping) for fenix vs. non-fenix shipping options and also total amount of shipping amount (across all orders) was paid for fenix vs. non-fenix options orders?
 
-The analysis is conducted in Python using Pandas, Numpy and Matplotlib libraries. This is a simple project which helped me improve my basic concepts of analysis and is the first individual project done by me.
+The analysis is conducted in Python using Pandas, Numpy, Matplotlib and Seaborn libraries. This is a simple project which helped me improve my basic concepts of analysis and is the first individual project done by me.
 
 Please view the Jupyter Notebook attached in the repository for full project.
